@@ -42,7 +42,7 @@
         android:textStyle="bold"
         android:textSize="16sp"
         android:textColor="@color/colorAccent"
-        android:text="Telpon" />
+        android:text="Telepon" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
